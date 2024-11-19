@@ -1,6 +1,3 @@
-This repository contains basic exercises needed to pass for C projects on Piscine.
-Code was developed at 42's Piscine, a 26-day (straight) C boot camp from 02/set/2024 to 27/set/2024.
-
 HARD-SKILLS
 C Language
 The main programming language taught during the 42 Piscine is C. Students learn to work with variables, pointers, memory allocation, macros, and the development of functions and programs, including creating and using libraries and Makefiles.
